@@ -29,4 +29,5 @@
 ## Bridgeworld
 | Name | Network | Use of Funds | Explorer |
 | ------------- | ------------- | ------------- | ------------- |
-| Treasury | eth | 0xC983AA839910e7fa206dbC9478d9e3bbDFb88515 | [Link](https://etherscan.io/address/0xC983AA839910e7fa206dbC9478d9e3bbDFb88515) |
+| Treasury (Original) | arb1 | 0xf9E197Aa9fa7C3b27A1A1313CaD5851B55F2FD71 | [Link](https://arbiscan.io/address/0xf9E197Aa9fa7C3b27A1A1313CaD5851B55F2FD71) |
+| Treasury (Game) | eth | 0xC983AA839910e7fa206dbC9478d9e3bbDFb88515 | [Link](https://etherscan.io/address/0xC983AA839910e7fa206dbC9478d9e3bbDFb88515) |
