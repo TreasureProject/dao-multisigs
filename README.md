@@ -5,6 +5,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Treasury | eth | 0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A | [Link](https://etherscan.io/address/0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A) |
 | Marketplace | eth | 0xb2F011FD7f663C37B2936e3Bd921d3ACcB90B416 | [Link](https://etherscan.io/address/0xb2F011FD7f663C37B2936e3Bd921d3ACcB90B416) |
+| L1 Operations Account | eth | 0x4ef220fC6d1C8951AaB7b804b5b5EED21D7A5150 | [Link](https://etherscan.io/address/0x4ef220fC6d1C8951AaB7b804b5b5EED21D7A5150) |
 | Treasury | arb1 | 0x0eB5B03c0303f2F47cD81d7BE4275AF8Ed347576 | [Link](https://arbiscan.io/address/0xb2F011FD7f663C37B2936e3Bd921d3ACcB90B416) |
 | Marketplace | arb1 | 0xDb6Ab450178bAbCf0e467c1F3B436050d907E233 | [Link](https://arbiscan.io/address/0xDb6Ab450178bAbCf0e467c1F3B436050d907E233) |
 | Ecofund | arb1 | 0x482729215AAF99B3199E41125865821ed5A4978a | [Link](https://arbiscan.io/address/0x482729215AAF99B3199E41125865821ed5A4978a) |
@@ -15,6 +16,7 @@
 | Community Grants | arb1 | 0x1054E9D9091dC55a1738F9c8Fc0c79E59E222804 | [Link](https://arbiscan.io/address/0x1054E9D9091dC55a1738F9c8Fc0c79E59E222804) |
 | Community Gamification Fund | arb1 | 0x3Fe5d6AE3470b2De09eD062Ac78444E44Aa0cACe | [Link](https://arbiscan.io/address/0x3Fe5d6AE3470b2De09eD062Ac78444E44Aa0cACe) |
 | Community Ecosystem Fund | arb1 | 0x45236EB7C47a68aE63f62F7e38f7C2F864f2Ad14 | [Link](https://arbiscan.io/address/0x45236EB7C47a68aE63f62F7e38f7C2F864f2Ad14) |
+| L2 Operations Account | arb1 | 0x7700D22D373Bb433B56705914D114144e8caDad3 | [Link](https://arbiscan.io/address/0x7700D22D373Bb433B56705914D114144e8caDad3) |
 
 ## Darkbright Studios
 | Name | Network | Use of Funds | Explorer |
