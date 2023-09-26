@@ -33,3 +33,8 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Treasury (Original) | arb1 | 0xf9E197Aa9fa7C3b27A1A1313CaD5851B55F2FD71 | [Link](https://arbiscan.io/address/0xf9E197Aa9fa7C3b27A1A1313CaD5851B55F2FD71) |
 | Treasury (Game) | eth | 0xC983AA839910e7fa206dbC9478d9e3bbDFb88515 | [Link](https://etherscan.io/address/0xC983AA839910e7fa206dbC9478d9e3bbDFb88515) |
+
+## Game Builder
+| Name | Network | Use of Funds | Explorer |
+| ------------- | ------------- | ------------- | ------------- |
+| GBS Off-ramp | eth | 0x8E40f9725ecfeAbFa13788b04b40CCCFD5d6d9C4| [Link](https://etherscan.io/address/0x8E40f9725ecfeAbFa13788b04b40CCCFD5d6d9C4) 
