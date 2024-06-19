@@ -1,7 +1,7 @@
 # TreasureDAO Multisigs
 
 ## Treasure
-| Name | Network | Use of Funds | Explorer |
+| Name | Network | Address | Explorer |
 | ------------- | ------------- | ------------- | ------------- |
 | Treasury | eth | 0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A | [Link](https://etherscan.io/address/0xEc834bD1F492a8Bd5aa71023550C44D4fB14632A) |
 | Marketplace | eth | 0xb2F011FD7f663C37B2936e3Bd921d3ACcB90B416 | [Link](https://etherscan.io/address/0xb2F011FD7f663C37B2936e3Bd921d3ACcB90B416) |
@@ -18,23 +18,18 @@
 | Community Gamification Fund | arb1 | 0x3Fe5d6AE3470b2De09eD062Ac78444E44Aa0cACe | [Link](https://arbiscan.io/address/0x3Fe5d6AE3470b2De09eD062Ac78444E44Aa0cACe) |
 | Community Ecosystem Fund | arb1 | 0x45236EB7C47a68aE63f62F7e38f7C2F864f2Ad14 | [Link](https://arbiscan.io/address/0x45236EB7C47a68aE63f62F7e38f7C2F864f2Ad14) |
 
-## Darkbright Studios
-| Name | Network | Use of Funds | Explorer |
-| ------------- | ------------- | ------------- | ------------- |
-| Treasury | eth | 0xFc4aA8C3Ee7d40C4C38ad5565Da7AF8Fc53F1487 | [Link](https://etherscan.io/address/0xFc4aA8C3Ee7d40C4C38ad5565Da7AF8Fc53F1487) |
-
-## Smolverse
-| Name | Network | Use of Funds | Explorer |
+## Smol
+| Name | Network | Address | Explorer |
 | ------------- | ------------- | ------------- | ------------- |
 | Treasury | arb1 | 0x674295B530A1F69a4Bc217FFFB7E8BcDF9971678 | [Link](https://arbiscan.io/address/0x674295B530A1F69a4Bc217FFFB7E8BcDF9971678) |
 
 ## Bridgeworld
-| Name | Network | Use of Funds | Explorer |
+| Name | Network | Address | Explorer |
 | ------------- | ------------- | ------------- | ------------- |
 | Treasury (Original) | arb1 | 0xf9E197Aa9fa7C3b27A1A1313CaD5851B55F2FD71 | [Link](https://arbiscan.io/address/0xf9E197Aa9fa7C3b27A1A1313CaD5851B55F2FD71) |
 | Treasury (Game) | eth | 0xC983AA839910e7fa206dbC9478d9e3bbDFb88515 | [Link](https://etherscan.io/address/0xC983AA839910e7fa206dbC9478d9e3bbDFb88515) |
 
 ## Game Builder
-| Name | Network | Use of Funds | Explorer |
+| Name | Network | Address | Explorer |
 | ------------- | ------------- | ------------- | ------------- |
 | GBS Off-ramp | eth | 0x8E40f9725ecfeAbFa13788b04b40CCCFD5d6d9C4| [Link](https://etherscan.io/address/0x8E40f9725ecfeAbFa13788b04b40CCCFD5d6d9C4) 
