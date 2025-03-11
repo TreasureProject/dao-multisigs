@@ -41,6 +41,8 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Treasury | `arb1` | `0x674295B530A1F69a4Bc217FFFB7E8BcDF9971678` | [Link](https://arbiscan.io/address/0x674295B530A1F69a4Bc217FFFB7E8BcDF9971678) |
 | Treasury | `treasure` | `0xc1aeb0290d6287a8483f09ebe7f50b236b6e703c` | [Link](https://treasurescan.io/address/0xc1aeb0290d6287a8483f09ebe7f50b236b6e703c) |
+| Treasury | `eth` | `0xE40bCD82E46C28dAaf135717D4B2F6966BCb4E3E` | [Link](https://etherscan.io/address/0xE40bCD82E46C28dAaf135717D4B2F6966BCb4E3E) |
+| Treasury | `solana` | `5KHDfxogWAiiDc3FWQJjT2RC6m38dte9JPfnYjwfbJ5V` | [Link](https://solscan.io/account/5KHDfxogWAiiDc3FWQJjT2RC6m38dte9JPfnYjwfbJ5V) |
 
 ## Bridgeworld
 | Name | Network | Address | Explorer |
