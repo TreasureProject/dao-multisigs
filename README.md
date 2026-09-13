@@ -54,3 +54,10 @@
 | Name | Network | Address | Explorer |
 | ------------- | ------------- | ------------- | ------------- |
 | GBS Off-ramp | `eth` | `0x8E40f9725ecfeAbFa13788b04b40CCCFD5d6d9C4`| [Link](https://etherscan.io/address/0x8E40f9725ecfeAbFa13788b04b40CCCFD5d6d9C4) 
+
+## Audit reports
+
+Public copies of audit reports referenced from docs.treasure.lol/audits.
+
+- [Treasure Bridge (Hyperlane implementation), Macro, 2025-07-10](audits/2025-07-10-macro-treasure-bridge-audit.pdf)
+- [Loxley v1, Macro, 2025-10-24](audits/2025-10-24-macro-loxley-v1-audit.pdf)
